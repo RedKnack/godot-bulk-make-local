@@ -1,4 +1,4 @@
-# Bulk Make Local
+# Bulk Make Local (Godot 4 Editor Plugin)
 
 A Godot 4 editor plugin that allows making multiple scene instances local at once.
 
